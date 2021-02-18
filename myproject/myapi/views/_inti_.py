@@ -1,0 +1,1 @@
+from myapi.views.person import *
